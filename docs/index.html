@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="./favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css">
+    <!-- Bangers is self-hosted in public/fonts and declared in style.css. Fetch
+         it up front: the stylesheet only declares the face, and nothing in the
+         DOM uses it (Phaser draws text to canvas), so the browser would
+         otherwise not start downloading until the game asks for it. -->
+    <link rel="preload" href="./fonts/bangers-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <meta name="apple-mobile-web-app-title" content="Te Rap" />
+    <title>Te Rap App</title>
+  <script type="module" crossorigin src="./assets/index-Dzyk6nub.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/phaser--qN7-NCm.js">
+<link rel="manifest" href="./manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="./registerSW.js"></script></head>
+
+<body>
+    <div id="app">
+        <div id="game-container"></div>
+    </div>
+</body>
+</html>
