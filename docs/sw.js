@@ -93,7 +93,7 @@ define(['./workbox-b2b86277'], (function (workbox) { 'use strict';
     "revision": "18b0acb1ba1f1a8381762dcccd881a38"
   }, {
     "url": "index.html",
-    "revision": "7cbded254f4de5eae89a02481ed4e03f"
+    "revision": "caee11d7bba77c82b3ce260933c7ac1c"
   }, {
     "url": "favicon.svg",
     "revision": "60407eccbf1dcecb6d8e75d779cbc2c3"
@@ -140,7 +140,7 @@ define(['./workbox-b2b86277'], (function (workbox) { 'use strict';
     "url": "assets/logo.png",
     "revision": null
   }, {
-    "url": "assets/index-DKD3CG6G.js",
+    "url": "assets/index-CMnx0Z4W.js",
     "revision": null
   }, {
     "url": "assets/bg.png",
